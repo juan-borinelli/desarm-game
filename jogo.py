@@ -1,4 +1,6 @@
 """
+Integrantes: Juan, Matheus, Bernardo Poluceno, Gabriel
+
 =============================================================
   OPERAÇÃO DESATIVAÇÃO - Simulador de Desativação de Bomba
 =============================================================
